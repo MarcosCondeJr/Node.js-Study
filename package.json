@@ -1,0 +1,24 @@
+{
+  "name": "node.js-study",
+  "version": "1.0.0",
+  "description": "Estudos sobre Node.js",
+  "main": "exportar.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosCondeJr/Node.js-Study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosCondeJr/Node.js-Study/issues"
+  },
+  "homepage": "https://github.com/MarcosCondeJr/Node.js-Study#readme"
+}
